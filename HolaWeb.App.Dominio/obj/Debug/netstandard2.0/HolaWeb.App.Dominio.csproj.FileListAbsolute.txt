@@ -6,3 +6,13 @@ C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfo.cs
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HospiEnCasaBackUp\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.deps.json
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HospiEnCasaBackUp\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HospiEnCasaBackUp\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HospiEnCasaBackUp\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csproj.AssemblyReference.cache
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HospiEnCasaBackUp\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HospiEnCasaBackUp\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfoInputs.cache
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HospiEnCasaBackUp\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfo.cs
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HospiEnCasaBackUp\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csproj.CoreCompileInputs.cache
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HospiEnCasaBackUp\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HospiEnCasaBackUp\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
