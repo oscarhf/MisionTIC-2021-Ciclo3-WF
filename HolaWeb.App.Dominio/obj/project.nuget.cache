@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MRwRvcMk1tOpuehBfYGlCpGy0WTrJYNwITZhXaRAKUeZLO6zB3/703DyOYk0aJmGn4N6QQCGfNXnfwHpQ0MCLQ==",
+  "success": true,
+  "projectFilePath": "C:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HospiEnCasaBackUp\\MisionTIC-2021-Ciclo3-WF\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristian.quiza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cristian.quiza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

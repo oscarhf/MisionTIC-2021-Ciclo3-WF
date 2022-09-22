@@ -46,34 +46,42 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\misiontic\\.nuget\\packages\\": {}
+    "C:\\Users\\cristian.quiza\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
+      "projectUniqueName": "C:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HospiEnCasaBackUp\\MisionTIC-2021-Ciclo3-WF\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
       "projectName": "HolaWeb.App.Frontend",
-      "projectPath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
-      "packagesPath": "C:\\Users\\misiontic\\.nuget\\packages\\",
-      "outputPath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\obj\\",
+      "projectPath": "C:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HospiEnCasaBackUp\\MisionTIC-2021-Ciclo3-WF\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
+      "packagesPath": "C:\\Users\\cristian.quiza\\.nuget\\packages\\",
+      "outputPath": "C:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HospiEnCasaBackUp\\MisionTIC-2021-Ciclo3-WF\\HolaWeb.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\misiontic\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\cristian.quiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj": {
-              "projectPath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj"
+            "C:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HospiEnCasaBackUp\\MisionTIC-2021-Ciclo3-WF\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj": {
+              "projectPath": "C:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HospiEnCasaBackUp\\MisionTIC-2021-Ciclo3-WF\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj"
             },
-            "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj": {
-              "projectPath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj"
+            "C:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HospiEnCasaBackUp\\MisionTIC-2021-Ciclo3-WF\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj": {
+              "projectPath": "C:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HospiEnCasaBackUp\\MisionTIC-2021-Ciclo3-WF\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj"
             }
           }
         }
@@ -86,13 +94,15 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -104,7 +114,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.117\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
